@@ -1,0 +1,38 @@
+[
+  {
+    "name": "TryHackMe",
+    "is_website": true,
+    "url": "https://tryhackme.com/dashboard",
+    "path": null
+  },
+  {
+    "name": "Google Calendar",
+    "is_website": true,
+    "url": "https://calendar.google.com/calendar/u/0/r",
+    "path": null
+  },
+  {
+    "name": "TCM Security",
+    "is_website": true,
+    "url": "https://academy.tcm-sec.com/",
+    "path": null
+  },
+  {
+    "name": "ToDoIst",
+    "is_website": false,
+    "url": null,
+    "path": "/snap/bin/todoist"
+  },
+  {
+    "name": "PyCharm",
+    "is_website": false,
+    "url": null,
+    "path": "/snap/bin/pycharm-community"
+  },
+  {
+    "name": "Productivity playlist (YT Music)",
+    "is_website": true,
+    "url": "https://music.youtube.com/playlist?list=PLc16QuSratQItBAZdOFlWfF4JKlf_qBSx",
+    "path": null
+  }
+]
