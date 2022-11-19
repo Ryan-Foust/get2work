@@ -5,6 +5,7 @@ import json
 import sys
 import subprocess
 import webbrowser
+import button_creator
 debug = True
 
 
@@ -27,6 +28,11 @@ def main(argv):
         if debug:
             print(apps_and_websites)
             print(type(apps_and_websites))
+
+        for app in apps_and_websites:
+            if debug:
+                print(app)
+            button_creator.createCheckbutton(app_data=app)
 
 
 if __name__ == '__main__':
