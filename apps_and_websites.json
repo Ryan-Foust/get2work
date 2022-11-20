@@ -34,5 +34,35 @@
     "is_website": true,
     "url": "https://music.youtube.com/playlist?list=PLc16QuSratQItBAZdOFlWfF4JKlf_qBSx",
     "path": null
+  },
+  {
+    "name": "Udemy",
+    "is_website": true,
+    "url": "https://www.udemy.com/",
+    "path": null
+  },
+  {
+    "name": "Portfolio",
+    "is_website": true,
+    "url": "https://www.ryanfoust.xyz/wp-admin/index.php",
+    "path": null
+  },
+  {
+    "name": "W3Schools Python",
+    "is_website": true,
+    "url": "https://www.w3schools.com/python/default.asp",
+    "path": null
+  },
+  {
+    "name": "Obsidian",
+    "is_website": false,
+    "url": null,
+    "path": "/snap/bin/obsidian"
+  },
+  {
+    "name": "Automating the Boring Stuff",
+    "is_website": true,
+    "url": "https://automatetheboringstuff.com/#toc",
+    "path": null
   }
 ]
